@@ -1,0 +1,75 @@
+@import "../variable/variable";
+@import "../mixin/font";
+
+.about_top_boxed {
+  position: relative;
+border-radius: 20px;
+  padding: 40px 30px 20px 30px;
+  transition: $transition;
+  margin: 70px 12px 30px;
+  height: 295px;
+
+}
+
+.about_top_boxed:hover {
+  transform: translateY(10px);
+}
+.bg_one {
+  background: #cae4f7;
+}
+
+.bg_two {
+  background: #fdf0dd;
+}
+.bg_three {
+  background: #d2f4f4;
+}
+
+.bg_four {
+  background: #e0eafd;
+}
+.bg_five {
+  background: #fdddf9;
+}
+
+.about_top_boxed_icon {
+  text-align: center;
+  margin: 0px auto 0 auto;
+  margin-top: -90px;
+  transition: $transition;
+}
+.about_top_boxed:hover .about_top_boxed_icon {
+  transform: translateY(20px);
+}
+
+.about_top_boxed_icon img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+box-shadow: 0px -4px 16px rgb(0 0 0 / 6%), 4px 8px 16px rgb(0 0 0 / 10%);
+  margin: -45px auto 0 auto;
+
+}
+
+.about_top_boxed_text {
+  padding-top: 20px;
+}
+
+.about_top_boxed_text h3 {
+  font-size: 30px;
+  font-weight: 500;
+  padding: 7px 0;
+  height: 86px;
+}
+
+.about_top_boxed_text a {
+  font-size: 16px;
+  font-weight: 500;
+  color: $green;
+}
+
+.about_top_boxed_vector {
+  position: absolute;
+  bottom: 15px;
+  right: 20px;
+}

@@ -1,0 +1,57 @@
+@import "../variable/variable";
+@import "../mixin/font";
+
+.bread-crumb {
+  // background-repeat: no-repeat !important;
+    // background-size: cover !important;
+    // background-position: center !important;
+    background-color: $theme;
+
+  .overlay {
+    // background-color: rgba(164, 143, 197, 0.55);
+      padding: 50px 0;
+
+    .text {
+      h3 {
+        @include font(40px, 700);
+        color: $purple;
+        margin-bottom: 10px;
+      }
+
+      ul {
+        li {
+          display: inline-block;
+          color: $black;
+          font-weight: 500;
+          position: relative;
+          padding: 0 20px;
+
+          a {
+            color: $purple;
+
+            i {
+              padding-right: 4px;
+            }
+          }
+
+          &::before {
+            position: absolute;
+            top: 3px;
+            right: -8px;
+            font-family: "Font Awesome 5 Free";
+            font-weight: 700;
+            content: "\f054";
+            font-size: 12px;
+            color: $purple;
+          }
+
+          &:last-child {
+            &::before {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}

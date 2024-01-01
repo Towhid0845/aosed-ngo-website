@@ -1,0 +1,23 @@
+@import "../variable/variable";
+@import "../mixin/font";
+
+#partner {
+  .partner_logo {
+      background-color: transparent;
+    }
+}
+
+// #partner .owl-carousel a {
+//   margin: 0 auto;
+// }
+
+#partner .owl-carousel .owl-item img {
+  // width: auto !important;
+  width: 230px;
+    padding: 0 20px;
+
+}
+
+.owl-theme .owl-nav {
+  display: none;
+}
