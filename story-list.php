@@ -31,7 +31,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12 col-lg-12">
-          <div class="story-item d-sm-flex">
+          <div class="story-item d-md-flex">
             <div class="image position-relative">
               <img src="./images/story2.jpg" alt="news-1" class="img-fluid w-100">
               <div class="overlay position-absolute">
@@ -51,7 +51,7 @@
           </div>
         </div>
         <div class="col-12 col-lg-12">
-          <div class="story-item d-sm-flex">
+          <div class="story-item d-md-flex">
             <div class="image position-relative">
               <img src="./images/story1.jpg" alt="news-1" class="img-fluid w-100">
               <div class="overlay position-absolute">
@@ -71,13 +71,13 @@
           </div>
         </div>
         <div class="col-12 col-lg-12">
-          <div class="story-item d-sm-flex">
+          <div class="story-item d-md-flex">
             <div class="image position-relative">
               <img src="./images/story3.jpg" alt="news-1" class="img-fluid w-100">
               <div class="overlay position-absolute">
                 <div class="title mt-auto">
                   <p>#happy</p>
-                  <h5>ICT-based Early Warning Response Mechanism</h5>
+                  <h5>Climate resilient initiative for Seagoing Traditional Fisher community</h5>
                 </div>
               </div>
             </div>

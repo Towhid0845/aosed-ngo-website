@@ -255,6 +255,7 @@ input {
 
 .show-search-field {
   transform: translateY(0) !important;
+  z-index: 9;
 }
 }
 }
@@ -444,7 +445,7 @@ ul {
         transition: all linear .2s;
 
 &:hover {
-    color: $theme;
+    color: $purple;
   }
 
 i {
@@ -458,7 +459,7 @@ i {
 
 &:hover {
   i {
-    background-color: $theme;
+    background-color: $purple;
     color: $white;
   }
 }

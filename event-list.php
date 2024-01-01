@@ -13,12 +13,12 @@
     <div class="overlay">
       <div class="container">
         <div class="text text-center">
-          <h3>Stories</h3>
+          <h3>Events</h3>
           <ul class="list-unstyled">
             <li>
               <a href="index.html"><i class="fas fa-home"></i> Home</a>
             </li>
-            <li>Stories</li>
+            <li>Events</li>
           </ul>
         </div>
       </div>
@@ -33,60 +33,83 @@
         <div class="col-12 col-lg-12">
           <div class="story-item d-sm-flex">
             <div class="image position-relative">
-              <img src="./images/story2.jpg" alt="news-1" class="img-fluid w-100">
+              <img src="./images/event1.jpg" alt="news-1" class="img-fluid w-100">
               <div class="overlay position-absolute">
                 <div class="title mt-auto">
-                  <p>#happy</p>
-                  <h5>Climate Education for Secondary School Students in Southwest Bangladesh</h5>
+                  <p>#COP28</p>
+                  <h5>AOSED in COP28</h5>
                 </div>
               </div>
             </div>
             <div class="text position-relative">
               <!-- <img class="position-absolute bottom-0 end-0" src="./images/story.png" alt="aosed"> -->
               <div class="berif">
-                <p class="line_limit_8">In an unprecedented move, AOSED has pioneered a global first: a comprehensive educational initiative targeting the nuanced challenges of climate change in the heart of southwest Bangladesh. From 2003 to 2005, AOSED strategically engaged 65 educational institutions across pivotal regions like Khulna and Jessore, meticulously crafting a curriculum that transcended traditional boundaries under Reducing Vulnerability to Climate Change (RVCC) project with collaboration of CARE Bangladesh.</p>
+                <p class="line_limit_8">As we continue to grapple with the escalating challenges posed by climate change, international
+                  forums such as the Conference of the Parties (COP) play an indispensable role in shaping the global
+                  response. The 28th session of the COP held in the vibrant city of Dubai, UAE, marked another
+                  significant milestone in the journey towards a sustainable and resilient future.</p>
               </div>
-              <a href="story1-details.php" class="btn btn_story btn_sm mt-4">Read more</a>
+              <a href="./images/Revised Final Draft Report of COP28.pdf" class="btn btn_story btn_sm mt-4">Read more</a>
             </div>
           </div>
         </div>
         <div class="col-12 col-lg-12">
           <div class="story-item d-sm-flex">
             <div class="image position-relative">
-              <img src="./images/story1.jpg" alt="news-1" class="img-fluid w-100">
+              <img src="./images/event2.jpg" alt="news-1" class="img-fluid w-100">
               <div class="overlay position-absolute">
                 <div class="title mt-auto">
-                  <p>#happy</p>
-                  <h5>Smart Bangladesh Award 2023 for ICT-based Early Warning Response Mechanism</h5>
+                  <p>#COP28</p>
+                  <h5>The Road to Dubai: Expert Consultation on Thematic Programs of COP28, 2023</h5>
                 </div>
               </div>
             </div>
             <div class="text position-relative">
               <!-- <img class="position-absolute bottom-0 end-0" src="./images/story.png" alt="aosed"> -->
               <div class="berif">
-                <p class="line_limit_8">AOSED received the prestigious "Smart Bangladesh Award-2023" in recognition of its exceptional role as a leading organization in fostering resilience and expertise among coastal districts through an ICT-based Early Warning Response Mechanism. The award was presented during the Sheikh Russel Day 2023 ceremony held at the Bangabandhu International Conference Center on October 18, 2023.</p>
+                <p class="line_limit_8">Climate Change is the prime concern for the adverse impact and long-term adaptations need to be integrated nowadays in different countries, including Bangladesh. Developed nations emit more greenhouse gases that harm the environment, accelerating negative impacts on developing and least developed countries.</p>
               </div>
-              <a href="story2-details.php" class="btn btn_story btn_sm mt-4">Read more</a>
+              <a href="event2-details.php" class="btn btn_story btn_sm mt-4">Read more</a>
             </div>
           </div>
         </div>
         <div class="col-12 col-lg-12">
           <div class="story-item d-sm-flex">
             <div class="image position-relative">
-              <img src="./images/story3.jpg" alt="news-1" class="img-fluid w-100">
+              <img src="./images/event3.jpg" alt="news-1" class="img-fluid w-100">
               <div class="overlay position-absolute">
                 <div class="title mt-auto">
-                  <p>#happy</p>
-                  <h5>ICT-based Early Warning Response Mechanism</h5>
+                  <p>#</p>
+                  <h5>Dialogue With Representatives From The Local Government Institutions On Environmental Protection And Climate Change, 2023</h5>
                 </div>
               </div>
             </div>
             <div class="text position-relative">
               <!-- <img class="position-absolute bottom-0 end-0" src="./images/story.png" alt="aosed"> -->
               <div class="berif">
-                <p class="line_limit_5">The picturesque Southwest Coastal Region of Bangladesh, embraced by the Bay of Bengal, is a haven for seagoing fisherfolks who rely on the vast marine resources for their livelihoods. Despite the region's natural beauty, the lives of these fisherfolks are marred by a relentless cycle of challenges that threaten their well-being. Foremost among these challenges is the constant peril they face when venturing into the sea, often ill-prepared for unpredictable weather conditions.</p>
+                <p class="line_limit_5">The dialogue provided a platform for stakeholders to discuss, share experiences, and make decisions regarding environmental protection and climate change in vulnerable coastal regions. The event emphasized the urgent need for collaboration, awareness, and innovative solutions to address the challenges posed by climate change.</p>
               </div>
-              <a href="story3-details.php" class="btn btn_story btn_sm mt-4">Read more</a>
+              <a href="event3-details.php" class="btn btn_story btn_sm mt-4">Read more</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-12">
+          <div class="story-item d-sm-flex">
+            <div class="image position-relative">
+              <img src="./images/event4.jpg" alt="news-1" class="img-fluid w-100">
+              <div class="overlay position-absolute">
+                <div class="title mt-auto">
+                  <p>#</p>
+                  <h5>MEETING OF POLITICAL PARTIES ON ENVIRONMENTAL PROTECTION AND CLIMATE CHANGE</h5>
+                </div>
+              </div>
+            </div>
+            <div class="text position-relative">
+              <!-- <img class="position-absolute bottom-0 end-0" src="./images/story.png" alt="aosed"> -->
+              <div class="berif">
+                <p class="line_limit_5">The meeting served as a platform for various political parties in Khulna to discuss and acknowledge the shared challenges and responsibilities related to environmental protection and climate change. The collective commitment and decision-making reflected a unified approach towards addressing the environmental concerns of the region.</p>
+              </div>
+              <a href="event4-details.php" class="btn btn_story btn_sm mt-4">Read more</a>
             </div>
           </div>
         </div>

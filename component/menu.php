@@ -144,41 +144,40 @@
           <li class="sub-menu">
             <a href="#">About Us <i class="fas fa-sort-down float-end"></i></a>
             <ul class="list-unstyled">
-              <li><a href="">Background</a></li>
-              <li><a href="">board and governance</a></li>
-              <li><a href="">our team</a></li>
-              <li><a href="">board</a></li>
-              <li><a href="">development partners</a></li>
+              <li><a href="background.php">Background</a></li>
+              <li><a href="board.php">board and governance</a></li>
+              <li><a href="team.php">our team</a></li>
+              <li><a href="partner.php">development partners</a></li>
             </ul>
           </li>
           <li class="sub-menu"><a href="#">Thematic Areas <i class="fas fa-sort-down float-end"></i></a>
             <ul class="list-unstyled">
-              <li><a href="">water justic</a></li>
-              <li><a href="">food security & agriculture</a></li>
-              <li><a href="">environment & climate change</a></li>
-              <li><a href="">Sanitation & Hygiene</a></li>
-              <li><a href="">Disaster management</a></li>
+              <li><a href="water.php">water justic</a></li>
+              <li><a href="food.php">food security & agriculture</a></li>
+              <li><a href="environment.php">environment & climate change</a></li>
+              <li><a href="sanitation.php">Sanitation & Hygiene</a></li>
+              <li><a href="disaster.php">Disaster management</a></li>
             </ul>
           </li>
           <li class="sub-menu"><a href="#">Gallery <i class="fas fa-sort-down float-end"></i>
             </a>
             <ul class="list-unstyled">
-              <li><a href="photo-gallery.php">photos</a></li>
-              <li><a href="">videos</a></li>
+              <li><a href="coming-soon.php">photos</a></li>
+              <li><a href="coming-soon.php">videos</a></li>
             </ul>
           </li>
           <li class="sub-menu"><a href="#">publication <i class="fas fa-sort-down float-end"></i></a>
             <ul class="list-unstyled">
-              <li><a href="">Newsletter</a></li>
-              <li><a href="">publications</a></li>
-              <li><a href="">reports</a></li>
+              <li><a href="coming-soon.php">Newsletter</a></li>
+              <li><a href="publication.php">publications</a></li>
+              <li><a href="coming-soon.php">reports</a></li>
             </ul>
           </li>
           <li class="sub-menu"><a href="#">Project & Program <i class="fas fa-sort-down float-end"></i></a>
             <ul class="list-unstyled">
-              <li><a href="">Ongoing Projects</a></li>
-              <li><a href="">Recent Past Projects</a></li>
-              <li><a href="">Success stories</a></li>
+              <li><a href="coming-soon.php">Ongoing Projects</a></li>
+              <li><a href="coming-soon.php">Past Projects</a></li>
+              <li><a href="">Stories</a></li>
             </ul>
           </li>
           <li class="sub-menu"><a href="contact-us.php">Contact Us</a>

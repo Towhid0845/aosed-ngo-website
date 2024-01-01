@@ -19,7 +19,7 @@
       <!-- banner part start -->
       <section id="banner">
         <!-- <div class="banner-img" style="background-image: url(./images/home-banner-bg.png);"> -->
-        <div class="banner-img" style="background-image: url(./images/banner-bg1.webp);">
+        <div class="banner-img" style="background-image: url(./images/food.jpg);">
           <!-- <div class="">
             <div class="row">
               <div class="d-none d-lg-block col-lg-4 col-xl-5">
@@ -43,24 +43,24 @@
             <a href="food.php">Food Security & Agriculture</a>
           </div>
         </div>
-        <div class="banner-img" style="background-image: url(./images/banner-bg2.webp);">
+        <div class="banner-img" style="background-image: url(./images/water.jpg);">
           <div class="banner_five_text">
             <a href="water.php">Water Justice</a>
           </div>
         </div>
 
-        <div class="banner-img" style="background-image: url(./images/banner-bg3.webp);">
+        <div class="banner-img" style="background-image: url(./images/sanitation.jpg);">
           <div class="banner_five_text">
             <a href="sanitation.php">Sanitation and Hygiene</a>
           </div>
         </div>
 
-        <div class="banner-img" style="background-image: url(./images/banner-bg4.webp);">
+        <div class="banner-img" style="background-image: url(./images/disaster.jpg);">
           <div class="banner_five_text">
             <a href="disaster.php">Disester management</a>
           </div>
         </div>
-        <div class="banner-img" style="background-image: url(./images/banner-bg4.webp);">
+        <div class="banner-img" style="background-image: url(./images/environment.jpg);">
           <div class="banner_five_text">
             <a href="environment.php">Environment and Climate Change</a>
           </div>
@@ -195,15 +195,15 @@
             <div class="col-lg-6">
               <div class="event_left_side_wrapper">
                 <div class="event_big_img">
-                  <a href="event1-details.php"><img src="./images/event.webp" alt="img"></a>
+                  <a href="./images/Revised Final Draft Report of COP28.pdf"><img src="./images/event1.jpg" alt="img"></a>
                 </div>
                 <div class="event_content_area big_content_padding">
                   <div class="event_tag_area">
-                    <a href="event.html">#COP28</a>
+                    <a href="#">#COP28</a>
                   </div>
                   <div class="event_heading_area">
                     <div class="event_heading">
-                      <h3><a href="event1-details.php">World Water Day 2022 Observation</a></h3>
+                      <h3><a href="./images/Revised Final Draft Report of COP28.pdf">AOSED in COP28</a></h3>
                     </div>
                     <div class="event_date">
                       <img src="./images/shape1.png" alt="icon">
@@ -211,7 +211,10 @@
                     </div>
                   </div>
                   <div class="event_para line_limit_5">
-                    <p>LAOSED and Pani Adhikar Committee (PAC) jointly organized a human chain program today (23.03.2022) in Paikgachha as a part of observing World Water Day – 2022 demanding the conservation of freshwater reservoirs, closure of leases of rivers, canals, and ponds, and ensuring controlled use of groundwater for irrigation.</p>
+                    <p>As we continue to grapple with the escalating challenges posed by climate change, international
+                      forums such as the Conference of the Parties (COP) play an indispensable role in shaping the global
+                      response. The 28th session of the COP held in the vibrant city of Dubai, UAE, marked another
+                      significant milestone in the journey towards a sustainable and resilient future.</p>
                   </div>
                   <div class="event_boxed_bottom_wrapper">
                     <div class="row">
@@ -222,7 +225,7 @@
                           </div>
                           <div class="event_bottom_content">
                             <h5>Location:</h5>
-                            <p>Dhaka, Bangladesh.</p>
+                            <p>Dubai, UAE.</p>
                           </div>
                         </div>
                       </div>
@@ -253,15 +256,15 @@
                   </div>
                   <div class="event_heading_area">
                     <div class="event_heading">
-                      <h3 class="est"><a href="event2-details.php">3rd Coastal Water Convention-2021</a></h3>
+                      <h3 class="est"><a href="event2-details.php" class="line_limit_1">The Road to Dubai: Expert Consultation on Thematic Programs of COP 28, 2023</a></h3>
                     </div>
                     <div class="event_date">
                       <img src="./images/shape1.png" alt="icon">
-                      <h6>20 <span>Dec</span></h6>
+                      <h6>15<span>Nov</span></h6>
                     </div>
                   </div>
                   <div class="event_para line_limit_2">
-                    <p>LFollowing the last two water conventions, the Coastal Water Convention (CWC) organizing committee is going to organize another conference for the third time in 2021.</p>
+                    <p>Climate Change is the prime concern for the adverse impact and long-term adaptations need to be integrated nowadays in different countries, including Bangladesh. Developed nations emit more greenhouse gases that harm the environment, accelerating negative impacts on developing and least developed countries. </p>
                   </div>
                   <div class="event_boxed_bottom_wrapper">
                     <div class="row">
@@ -272,7 +275,7 @@
                           </div>
                           <div class="event_bottom_content">
                             <h5>Location:</h5>
-                            <p>Dhaka, Bangladesh.</p>
+                            <p>Dubai, UAE.</p>
                           </div>
                         </div>
                       </div>
@@ -298,15 +301,15 @@
                   </div>
                   <div class="event_heading_area">
                     <div class="event_heading">
-                      <h3 class="est"><a href="event3-details.php">3rd Coastal Water Convention-2021</a></h3>
+                      <h3 class="est"><a href="event3-details.php" class="line_limit_1">Dialogue With Representatives From The Local Government Institutions On Environmental Protection And Climate Change, 2023</a></h3>
                     </div>
                     <div class="event_date">
                       <img src="./images/shape1.png" alt="icon">
-                      <h6>20 <span>Dec</span></h6>
+                      <h6>30 <span>Sep</span></h6>
                     </div>
                   </div>
                   <div class="event_para line_limit_2">
-                    <p>LFollowing the last two water conventions, the Coastal Water Convention (CWC) organizing committee is going to organize another conference for the third time in 2021.</p>
+                    <p>The dialogue provided a platform for stakeholders to discuss, share experiences, and make decisions regarding environmental protection and climate change in vulnerable coastal regions. The event emphasized the urgent need for collaboration, awareness, and innovative solutions to address the challenges posed by climate change.</p>
                   </div>
                   <div class="event_boxed_bottom_wrapper">
                     <div class="row">
@@ -317,7 +320,7 @@
                           </div>
                           <div class="event_bottom_content">
                             <h5>Location:</h5>
-                            <p>Dhaka, Bangladesh.</p>
+                            <p>Hotel Western Inn, Khulna, Bangladesh.</p>
                           </div>
                         </div>
                       </div>
@@ -343,15 +346,15 @@
                   </div>
                   <div class="event_heading_area">
                     <div class="event_heading">
-                      <h3 class="est"><a href="event4-details.php">3rd Coastal Water Convention-2021</a></h3>
+                      <h3 class="est"><a href="event4-details.php" class="line_limit_1">MEETING OF POLITICAL PARTIES ON ENVIRONMENTAL PROTECTION AND CLIMATE CHANGE</a></h3>
                     </div>
                     <div class="event_date">
                       <img src="./images/shape1.png" alt="icon">
-                      <h6>20 <span>Dec</span></h6>
+                      <h6>17 <span>Sep</span></h6>
                     </div>
                   </div>
                   <div class="event_para line_limit_2">
-                    <p>LFollowing the last two water conventions, the Coastal Water Convention (CWC) organizing committee is going to organize another conference for the third time in 2021.</p>
+                    <p>The meeting served as a platform for various political parties in Khulna to discuss and acknowledge the shared challenges and responsibilities related to environmental protection and climate change. The collective commitment and decision-making reflected a unified approach towards addressing the environmental concerns of the region.</p>
                   </div>
                   <div class="event_boxed_bottom_wrapper">
                     <div class="row">
@@ -362,7 +365,7 @@
                           </div>
                           <div class="event_bottom_content">
                             <h5>Location:</h5>
-                            <p>Dhaka, Bangladesh.</p>
+                            <p>Hotel Western inn, Khulna, Bangladesh.</p>
                           </div>
                         </div>
                       </div>
@@ -539,14 +542,14 @@
             <div class="col-lg-4">
               <div class="blog_card_wrapper">
                 <div class="blog_card_img">
-                  <a href="news-details.html"><img src="./images/story2.jpg" alt="img"></a>
+                  <a href="story1-details.php"><img src="./images/story2.jpg" alt="img"></a>
                 </div>
                 <div class="blog_card_text">
                   <div class="blog_card_tags">
                     <a href="news.html">#story</a>
                   </div>
                   <div class="blog_card_heading">
-                    <h3><a href="news-details.html" class="line_limit_2">Climate Education for Secondary School Students in Southwest Bangladesh</a></h3>
+                    <h3><a href="story1-details.php" class="line_limit_2">Climate Education for Secondary School Students in Southwest Bangladesh</a></h3>
                     <p class="line_limit_2">In an unprecedented move, AOSED has pioneered a global first: a comprehensive educational initiative targeting the nuanced challenges of climate change in the heart of southwest Bangladesh. From 2003 to 2005, AOSED strategically engaged 65 educational institutions across pivotal regions like Khulna and Jessore, meticulously crafting a curriculum that transcended traditional boundaries under Reducing Vulnerability to Climate Change (RVCC) project with collaboration of CARE Bangladesh.</p>
                     <a href="story1-details.php" class="btn btn_theme btn_sm mt-4">Read more</a>
                   </div>
@@ -582,14 +585,14 @@
             <div class="col-lg-4">
               <div class="blog_card_wrapper">
                 <div class="blog_card_img">
-                  <a href="news-details.html"><img src="./images/story1.jpg" alt="img"></a>
+                  <a href="story2-details.php"><img src="./images/story1.jpg" alt="img"></a>
                 </div>
                 <div class="blog_card_text">
                   <div class="blog_card_tags">
                     <a href="news.html">#story</a>
                   </div>
                   <div class="blog_card_heading">
-                    <h3><a href="news-details.html" class="line_limit_2">Smart Bangladesh Award 2023 for ICT-based Early Warning Response Mechanism</a></h3>
+                    <h3><a href="story2-details.php" class="line_limit_2">Smart Bangladesh Award 2023 for ICT-based Early Warning Response Mechanism</a></h3>
                     <p class="line_limit_2">AOSED received the prestigious "Smart Bangladesh Award-2023" in recognition of its exceptional role as a leading organization in fostering resilience and expertise among coastal districts through an ICT-based Early Warning Response Mechanism. The award was presented during the Sheikh Russel Day 2023 ceremony held at the Bangabandhu International Conference Center on October 18, 2023.</p>
                     <a href="story2-details.php" class="btn btn_theme btn_sm mt-4">Read more</a>
                   </div>
@@ -600,14 +603,14 @@
             <div class="col-lg-4">
               <div class="blog_card_wrapper">
                 <div class="blog_card_img">
-                  <a href="news-details.html"><img src="./images/story3.jpg" alt="img"></a>
+                  <a href="story3-details.php"><img src="./images/story3.jpg" alt="img"></a>
                 </div>
                 <div class="blog_card_text">
                   <div class="blog_card_tags">
                     <a href="news.html">#Water</a>
                   </div>
                   <div class="blog_card_heading">
-                    <h3><a href="news-details.html" class="line_limit_2">ICT-based Early Warning Response Mechanism:</a></h3>
+                    <h3><a href="story3-details.php" class="line_limit_2">Climate resilient initiative for Seagoing Traditional Fisher community</a></h3>
                     <p class="line_limit_2">The picturesque Southwest Coastal Region of Bangladesh, embraced by the Bay of Bengal, is a haven for seagoing fisherfolks who rely on the vast marine resources for their livelihoods. Despite the region's natural beauty, the lives of these fisherfolks are marred by a relentless cycle of challenges that threaten their well-being. Foremost among these challenges is the constant peril they face when venturing into the sea, often ill-prepared for unpredictable weather conditions.</p>
                     <a href="story3-details.php" class="btn btn_theme btn_sm mt-4">Read more</a>
                   </div>

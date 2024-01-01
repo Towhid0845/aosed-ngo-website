@@ -583,6 +583,7 @@ nav .container .search .search-field .close-btn:hover {
 }
 nav .container .search .show-search-field {
   transform: translateY(0) !important;
+  z-index: 9;
 }
 
 .mobile-topbar {
@@ -738,7 +739,7 @@ nav .container .search .show-search-field {
   transition: all linear 0.2s;
 }
 .mobile-menu .mobile-menu-main .menu-body .menu-list ul li a:hover {
-  color: #bde4f8;
+  color: #8161b4;
 }
 .mobile-menu .mobile-menu-main .menu-body .menu-list ul li a i {
   width: 40px;
@@ -749,7 +750,7 @@ nav .container .search .show-search-field {
   transition: all linear 0.2s;
 }
 .mobile-menu .mobile-menu-main .menu-body .menu-list ul li a:hover i {
-  background-color: #bde4f8;
+  background-color: #8161b4;
   color: #ffffff;
 }
 .mobile-menu .mobile-menu-main .menu-body .menu-list ul li ul {
@@ -804,11 +805,13 @@ nav .container .search .show-search-field {
 }
 #banner .banner-img .banner_five_text a {
   color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.432);
   font-size: 40px;
   font-weight: 600;
   line-height: 80px;
   text-transform: uppercase;
   letter-spacing: 0.3em;
+  padding-left: 20px;
 }
 #banner .banner-img .image {
   position: relative;
@@ -2321,6 +2324,8 @@ nav .container .search .show-search-field {
 .project-details-page .project-left .image img {
   border-radius: 10px;
   transition: all 0.3s ease 0s;
+  height: 100%;
+  object-fit: cover;
 }
 .project-details-page .project-left .image:hover img {
   transform: scale(1.1);
@@ -2486,6 +2491,17 @@ nav .container .search .show-search-field {
   font-weight: 400px;
   color: #2a283e;
   margin-top: 10px;
+}
+.project-details-page .content-box .small-image {
+  float: right;
+  margin-left: 24px;
+  height: auto;
+}
+.project-details-page .content-box .small-image img {
+  border-radius: 10px;
+}
+.project-details-page .content-box p {
+  text-align: justify;
 }
 
 .project-box p:last-child {
@@ -3150,7 +3166,7 @@ nav .container .search .show-search-field {
 .publication .list .item .image img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 .publication .list .item .text {
   height: 80px;

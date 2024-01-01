@@ -30,7 +30,7 @@
                 </ul>
               </div>
               <div class="details">
-                <h3>ICT-based Early Warning Response Mechanism:</h3>
+                <h3>Climate resilient initiative for Seagoing Traditional Fisher community</h3>
                 <p>The picturesque Southwest Coastal Region of Bangladesh, embraced by the Bay of Bengal, is a haven for seagoing fisherfolks who rely on the vast marine resources for their livelihoods. Despite the region's natural beauty, the lives of these fisherfolks are marred by a relentless cycle of challenges that threaten their well-being. Foremost among these challenges is the constant peril they face when venturing into the sea, often ill-prepared for unpredictable weather conditions.</p>
 
                 <h5>The Problem:</h5>

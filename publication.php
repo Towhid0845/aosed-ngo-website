@@ -49,11 +49,11 @@
                   <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="item">
                       <div class="image">
-                        <img src="./images/sm3.jpg" alt="aosed">
+                        <img src="./images/pub1.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
+                        <a href="./images/Easy Reading Booklet 1st Part_(Bangla).pdf">
+                          <h4>জলবায়ু পরিবর্তন-১</h4>
                         </a>
                       </div>
                     </div>
@@ -61,11 +61,11 @@
                   <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="item">
                       <div class="image">
-                        <img src="./images/sm3.jpg" alt="aosed">
+                        <img src="./images/pub2.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
+                        <a href="./images/Easy Reading Booklet 2nd Part_(Bangla).pdf">
+                          <h4>জলবায়ু পরিবর্তন-২</h4>
                         </a>
                       </div>
                     </div>
@@ -73,51 +73,16 @@
                   <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="item">
                       <div class="image">
-                        <img src="./images/sm3.jpg" alt="aosed">
+                        <img src="./images/pub3.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
+                        <a href="./images/Easy reading booklet on WASH (Bangla) .pdf">
+                          <h4>স্বাস্থ্য ও সানিটেশন বিষয়ক</h4>
                         </a>
                       </div>
                     </div>
                   </div>
-                  <div class="col-sm-6 col-lg-4 col-xxl-3">
-                    <div class="item">
-                      <div class="image">
-                        <img src="./images/sm3.jpg" alt="aosed">
-                      </div>
-                      <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-lg-4 col-xxl-3">
-                    <div class="item">
-                      <div class="image">
-                        <img src="./images/sm3.jpg" alt="aosed">
-                      </div>
-                      <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-lg-4 col-xxl-3">
-                    <div class="item">
-                      <div class="image">
-                        <img src="./images/sm3.jpg" alt="aosed">
-                      </div>
-                      <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
+
                 </div>
               </div>
             </div>
@@ -127,11 +92,11 @@
                   <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="item">
                       <div class="image">
-                        <img src="./images/sm2.jpg" alt="aosed">
+                        <img src="./images/pub4.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
+                        <a href="./images/Guideline on menstrual hygiene (Bangla) .pdf">
+                          <h4>কিশোরী ও নারী বিষয়ক</h4>
                         </a>
                       </div>
                     </div>
@@ -139,11 +104,11 @@
                   <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="item">
                       <div class="image">
-                        <img src="./images/sm2.jpg" alt="aosed">
+                        <img src="./images/pub5.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
+                        <a href="./images/Hand book on Environmental Auditing.pdf">
+                          <h4>Handbook on Environmental Auditing</h4>
                         </a>
                       </div>
                     </div>
@@ -151,11 +116,11 @@
                   <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="item">
                       <div class="image">
-                        <img src="./images/sm2.jpg" alt="aosed">
+                        <img src="./images/pub6.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
+                        <a href="./images/Philip Chart on Climate Change Awareness Part-1.pdf">
+                          <h4>ফ্লিপ চার্ট</h4>
                         </a>
                       </div>
                     </div>
@@ -163,35 +128,11 @@
                   <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="item">
                       <div class="image">
-                        <img src="./images/sm2.jpg" alt="aosed">
+                        <img src="./images/pub7.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-lg-4 col-xxl-3">
-                    <div class="item">
-                      <div class="image">
-                        <img src="./images/sm2.jpg" alt="aosed">
-                      </div>
-                      <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-lg-4 col-xxl-3">
-                    <div class="item">
-                      <div class="image">
-                        <img src="./images/sm2.jpg" alt="aosed">
-                      </div>
-                      <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
+                        <a href="./images/Philip Chart on Climate Change Awareness Part-2.pdf">
+                          <h4>লিপ চার্ট</h4>
                         </a>
                       </div>
                     </div>
@@ -205,11 +146,11 @@
                   <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="item">
                       <div class="image">
-                        <img src="./images/sm1.jpg" alt="aosed">
+                        <img src="./images/pub8.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
+                        <a href="./images/Teachers Guideline on Climate Change School Program (Bangla).pdf">
+                          <h4>শিক্ষক সহায়িকা</h4>
                         </a>
                       </div>
                     </div>
@@ -217,59 +158,11 @@
                   <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="item">
                       <div class="image">
-                        <img src="./images/sm1.jpg" alt="aosed">
+                        <img src="./images/pub9.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-lg-4 col-xxl-3">
-                    <div class="item">
-                      <div class="image">
-                        <img src="./images/sm1.jpg" alt="aosed">
-                      </div>
-                      <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-lg-4 col-xxl-3">
-                    <div class="item">
-                      <div class="image">
-                        <img src="./images/sm1.jpg" alt="aosed">
-                      </div>
-                      <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-lg-4 col-xxl-3">
-                    <div class="item">
-                      <div class="image">
-                        <img src="./images/sm1.jpg" alt="aosed">
-                      </div>
-                      <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-lg-4 col-xxl-3">
-                    <div class="item">
-                      <div class="image">
-                        <img src="./images/sm1.jpg" alt="aosed">
-                      </div>
-                      <div class="text">
-                        <a href="#">
-                          <h4>AOSED Publication 2024</h4>
+                        <a href="./images/Water scenario of Dacope.pdf">
+                          <h4>উপকূলে নিরাপদ পানির আকাল</h4>
                         </a>
                       </div>
                     </div>
