@@ -717,7 +717,19 @@
 
   <!-- script part start -->
   <?php include("./component/script.php"); ?>
+  <script>
+    Swal.fire({
+      title: "",
+      text: "",
+      imageUrl: "http://aosed.org/images/new_year.png",
+      imageWidth: 400,
+      imageHeight: 200,
+      imageAlt: "Custom image",
+      confirmButtonText: 'Close'
+    });
+  </script>
   <!-- script part end -->
+
 
 </body>
 

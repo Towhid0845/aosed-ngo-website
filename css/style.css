@@ -345,7 +345,7 @@ section {
 .sticky-top {
   top: -143px;
   transition: 0.5s;
-  z-index: 9999 !important;
+  z-index: 1000 !important;
   background-color: #ffffff;
 }
 
@@ -362,11 +362,20 @@ section {
   line-height: 32px;
 }
 
+.swal2-image {
+  height: 400px !important;
+}
+
 .topbar {
   padding-top: 10px;
   padding-bottom: 10px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1294117647);
   background-color: transparent;
+}
+
+.tag {
+  font-size: 14px;
+  color: #8161b4;
 }
 
 .topbar-list {
@@ -1303,7 +1312,7 @@ nav .container .search .show-search-field {
 }
 
 .bg_five {
-  background: #fdddf9;
+  background: #fff8c4;
 }
 
 .about_top_boxed_icon {
@@ -3181,6 +3190,65 @@ nav .container .search .show-search-field {
 }
 .publication .list .item:hover .text h4 {
   color: #8161b4;
+}
+
+.gb_page {
+  padding-top: 60px;
+  margin-bottom: 60px;
+}
+.gb_page .content_main {
+  background-color: #eef4f8;
+  padding: 40px;
+  margin-bottom: 30px;
+}
+.gb_page .content_main .title {
+  font-size: 32px;
+  padding-bottom: 8px;
+  border-bottom: 3px solid #8161b4;
+  margin: 15px 0 30px;
+}
+.gb_page .content_main .gb_member {
+  height: 300px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+.gb_page .content_main .gb_member .shape1 {
+  background-color: #bde4f8;
+  border-radius: 5px 0% 100% 5px;
+  padding: 10px;
+  height: 90%;
+  width: 65%;
+}
+.gb_page .content_main .gb_member .shape1 .image {
+  width: 170px;
+  height: 170px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.gb_page .content_main .gb_member .shape1 .image img {
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.gb_page .content_main .gb_member .shape2 {
+  background-color: #bde4f8;
+  border-radius: 100% 5px 5px 0%;
+  padding: 0 10px 20px 30px;
+  height: 80%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+.gb_page .content_main .gb_member .shape2 h3 {
+  font-size: 24px;
+}
+.gb_page .content_main .gb_member .shape2 h4 {
+  font-size: 20px;
+  color: rgba(199, 187, 217, 0.2784313725);
+  color: rgb(124, 124, 124);
 }
 
 /*# sourceMappingURL=style.css.map */

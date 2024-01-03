@@ -58,7 +58,7 @@
               </div>
               <div class="contact_left_text">
                 <!-- <h3>Email:</h3> -->
-                <a href="mailto:aosed_khulna@yahoo.com">aosed_khulna@yahoo.com</a>
+                <a href="mailto: info@aosed.org"> info@aosed.org</a>
               </div>
             </div>
             <div class="contact_left_item">
@@ -67,7 +67,7 @@
               </div>
               <div class="contact_left_text">
                 <!-- <h3>Phone number:</h3> -->
-                <a href="tel:+01-123-456-789">+880244110711</a>
+                <a href="tel:+8801713255111">+8801713255111</a>
               </div>
             </div>
           </div>

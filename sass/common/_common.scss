@@ -325,7 +325,7 @@ section {
 .sticky-top {
   top: -143px;
   transition: 0.5s;
-  z-index: 9999 !important;
+  z-index: 1000 !important;
   background-color: #ffffff;
 }
 .print-btn {
@@ -341,4 +341,7 @@ section {
     font-size: 20px;
     line-height: 32px;
   }
+}
+.swal2-image {
+  height: 400px !important;
 }

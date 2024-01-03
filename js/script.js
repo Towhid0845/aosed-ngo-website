@@ -130,6 +130,10 @@ $(function () {
       srcAction: 'iframe_src',
     }
   });
+
+  // sweet alert
+
+
   // profile slider js
   // $(".profile-slider").slick({
   //   dots: false,

@@ -2,7 +2,7 @@
 <div class="topbar">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-lg-6 col-8">
+      <div class="col-lg-6 col-8 order-1 order-lg-1">
         <ul class="topbar-list">
           <li><a href="#!"><i class="fa fa-envelope"></i><span>aosed_khulna@yahoo.com</span></a>
           </li>
@@ -10,7 +10,12 @@
           <li><a href="#!"><span>Faqs</span></a></li>
         </ul>
       </div>
-      <div class="col-lg-6 col-4">
+      <div class="col-lg-4 col-12 order-3 order-lg-2">
+        <p class="tag">
+          Special consultative status with UN ECOSOC
+        </p>
+      </div>
+      <div class="col-lg-2 col-4 order-2 order-lg-3">
         <ul class="topbar-list-right">
           <li>
             <a href="https://www.facebook.com/AOSED.BD"><i class="fab fa-facebook"></i></a>

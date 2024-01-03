@@ -26,13 +26,13 @@
             <i class="fas fa-map-marker-alt"></i>
             <span>334, Sher-A-Bangla Road (1st floor), Khulna-9100, Bangladesh.</span>
           </address>
-          <a href="mailto:#" class="d-flex align-items-center">
+          <a href="mailto:info@aosed.org" class="d-flex align-items-center">
             <i class="fas fa-envelope"></i>
-            <span>aosed_khulna@yahoo.com</span>
+            <span>info@aosed.org</span>
           </a><br>
-          <a href="tel:+880244110711" class="d-flex align-items-center">
+          <a href="tel:+8801713255111" class="d-flex align-items-center">
             <i class="fas fa-phone-alt"></i>
-            <span>+880244110711</span>
+            <span>+8801713255111</span>
           </a>
         </div>
       </div>
