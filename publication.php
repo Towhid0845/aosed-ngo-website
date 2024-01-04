@@ -29,6 +29,11 @@
   <!-- content page start -->
   <section class="publication">
     <div class="container">
+      <div class="row mb-4">
+        <div class="col-lg-12">
+          <h6><a href="#">If you want to access full publication, request through your <u>email</u></a>.</h6>
+        </div>
+      </div>
       <div class="row">
         <div class="col-12 col-lg-4 col-xl-3">
           <div class="publication_category rounded-4">
@@ -37,6 +42,8 @@
                 <button class="nav-link active py-3 mb-3 d-flex align-items-center" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true"><span>Category 01</span></button>
                 <button class="nav-link py-3 mb-3 d-flex align-items-center" id="v-pills-tab01-tab" data-bs-toggle="pill" data-bs-target="#v-pills-tab01" type="button" role="tab" aria-controls="v-pills-tab01" aria-selected="false"><span>Category 02</span></button>
                 <button class="nav-link py-3 mb-3 d-flex align-items-center" id="v-pills-tab02-tab" data-bs-toggle="pill" data-bs-target="#v-pills-tab02" type="button" role="tab" aria-controls="v-pills-tab02" aria-selected="false"><span>Category 03</span></button>
+                <button class="nav-link py-3 mb-3 d-flex align-items-center" id="v-pills-tab03-tab" data-bs-toggle="pill" data-bs-target="#v-pills-tab03" type="button" role="tab" aria-controls="v-pills-tab03" aria-selected="false"><span>Category 04</span></button>
+                <button class="nav-link py-3 mb-3 d-flex align-items-center" id="v-pills-tab04-tab" data-bs-toggle="pill" data-bs-target="#v-pills-tab04" type="button" role="tab" aria-controls="v-pills-tab04" aria-selected="false"><span>Category 05</span></button>
               </div>
             </div>
           </div>
@@ -82,7 +89,6 @@
                       </div>
                     </div>
                   </div>
-
                 </div>
               </div>
             </div>
@@ -170,7 +176,66 @@
                 </div>
               </div>
             </div>
-
+            <div class="tab-pane fade" id="v-pills-tab03" role="tabpanel" aria-labelledby="v-pills-tab03-tab" tabindex="0">
+              <div class="list">
+                <div class="row">
+                  <div class="col-sm-6 col-lg-4 col-xxl-3">
+                    <div class="item">
+                      <div class="image">
+                        <img src="./images/pub8.png" alt="aosed">
+                      </div>
+                      <div class="text">
+                        <a href="./images/Teachers Guideline on Climate Change School Program (Bangla).pdf">
+                          <h4>শিক্ষক সহায়িকা</h4>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-6 col-lg-4 col-xxl-3">
+                    <div class="item">
+                      <div class="image">
+                        <img src="./images/pub9.png" alt="aosed">
+                      </div>
+                      <div class="text">
+                        <a href="./images/Water scenario of Dacope.pdf">
+                          <h4>উপকূলে নিরাপদ পানির আকাল</h4>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane fade" id="v-pills-tab04" role="tabpanel" aria-labelledby="v-pills-tab04-tab" tabindex="0">
+              <div class="list">
+                <div class="row">
+                  <div class="col-sm-6 col-lg-4 col-xxl-3">
+                    <div class="item">
+                      <div class="image">
+                        <img src="./images/pub8.png" alt="aosed">
+                      </div>
+                      <div class="text">
+                        <a href="./images/Teachers Guideline on Climate Change School Program (Bangla).pdf">
+                          <h4>শিক্ষক সহায়িকা</h4>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-6 col-lg-4 col-xxl-3">
+                    <div class="item">
+                      <div class="image">
+                        <img src="./images/pub9.png" alt="aosed">
+                      </div>
+                      <div class="text">
+                        <a href="./images/Water scenario of Dacope.pdf">
+                          <h4>উপকূলে নিরাপদ পানির আকাল</h4>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

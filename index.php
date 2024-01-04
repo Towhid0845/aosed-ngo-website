@@ -156,7 +156,7 @@
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
               <div class="about_area_main_text">
                 <div class="about_area_heading">
-                  <img src="./images/about-icon.png" alt="img">
+                  <!-- <img src="./images/about-icon.png" alt="img"> -->
                   <h2>About Us</h2>
 
                 </div>
@@ -198,9 +198,9 @@
                   <a href="./images/Revised Final Draft Report of COP28.pdf"><img src="./images/event1.jpg" alt="img"></a>
                 </div>
                 <div class="event_content_area big_content_padding">
-                  <div class="event_tag_area">
+                  <!-- <div class="event_tag_area">
                     <a href="#">#COP28</a>
-                  </div>
+                  </div> -->
                   <div class="event_heading_area">
                     <div class="event_heading">
                       <h3><a href="./images/Revised Final Draft Report of COP28.pdf">AOSED in COP28</a></h3>
@@ -210,7 +210,7 @@
                       <h6>20 <span>Dec</span></h6>
                     </div>
                   </div>
-                  <div class="event_para line_limit_5">
+                  <div class="event_para line_limit_4">
                     <p>As we continue to grapple with the escalating challenges posed by climate change, international
                       forums such as the Conference of the Parties (COP) play an indispensable role in shaping the global
                       response. The 28th session of the COP held in the vibrant city of Dubai, UAE, marked another
@@ -251,9 +251,9 @@
             <div class="col-lg-6">
               <div class="event_left_side_wrapper">
                 <div class="event_content_area small_content_padding">
-                  <div class="event_tag_area">
+                  <!-- <div class="event_tag_area">
                     <a href="#">#COP28</a>
-                  </div>
+                  </div> -->
                   <div class="event_heading_area">
                     <div class="event_heading">
                       <h3 class="est"><a href="event2-details.php" class="line_limit_1">The Road to Dubai: Expert Consultation on Thematic Programs of COP 28, 2023</a></h3>
@@ -296,9 +296,9 @@
               </div>
               <div class="event_left_side_wrapper">
                 <div class="event_content_area small_content_padding">
-                  <div class="event_tag_area">
+                  <!-- <div class="event_tag_area">
                     <a href="#">#COP28</a>
-                  </div>
+                  </div> -->
                   <div class="event_heading_area">
                     <div class="event_heading">
                       <h3 class="est"><a href="event3-details.php" class="line_limit_1">Dialogue With Representatives From The Local Government Institutions On Environmental Protection And Climate Change, 2023</a></h3>
@@ -341,9 +341,9 @@
               </div>
               <div class="event_left_side_wrapper">
                 <div class="event_content_area small_content_padding">
-                  <div class="event_tag_area">
+                  <!-- <div class="event_tag_area">
                     <a href="#">#COP28</a>
-                  </div>
+                  </div> -->
                   <div class="event_heading_area">
                     <div class="event_heading">
                       <h3 class="est"><a href="event4-details.php" class="line_limit_1">MEETING OF POLITICAL PARTIES ON ENVIRONMENTAL PROTECTION AND CLIMATE CHANGE</a></h3>
@@ -717,7 +717,7 @@
 
   <!-- script part start -->
   <?php include("./component/script.php"); ?>
-  <script>
+  <!-- <script>
     Swal.fire({
       title: "",
       text: "",
@@ -727,7 +727,7 @@
       imageAlt: "Custom image",
       confirmButtonText: 'Close'
     });
-  </script>
+  </script> -->
   <!-- script part end -->
 
 

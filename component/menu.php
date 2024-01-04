@@ -2,32 +2,32 @@
 <div class="topbar">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-lg-6 col-8 order-1 order-lg-1">
+      <!-- <div class="col-lg-6 col-8 order-1 order-lg-1">
         <ul class="topbar-list">
           <li><a href="#!"><i class="fa fa-envelope"></i><span>aosed_khulna@yahoo.com</span></a>
           </li>
           <li><a href="#!"><i class="fa fa-phone"></i><span>+880244110711</span></a></li>
           <li><a href="#!"><span>Faqs</span></a></li>
         </ul>
-      </div>
-      <div class="col-lg-4 col-12 order-3 order-lg-2">
+      </div> -->
+      <div class="col-lg-6 col-8">
         <p class="tag">
           Special consultative status with UN ECOSOC
         </p>
       </div>
-      <div class="col-lg-2 col-4 order-2 order-lg-3">
+      <div class="col-lg-6 col-4">
         <ul class="topbar-list-right">
           <li>
-            <a href="https://www.facebook.com/AOSED.BD"><i class="fab fa-facebook"></i></a>
+            <a href="https://www.facebook.com/AOSED.BD" target="_blank"><i class="fab fa-facebook"></i></a>
           </li>
           <li>
-            <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-x-twitter" target="_blank"></i></a>
           </li>
           <li>
-            <a href="https://www.instagram.com/aosed_khulna/"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.instagram.com/aosed_khulna/" target="_blank"><i class="fab fa-instagram"></i></a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/company/aosed/"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/company/aosed/" target="_blank"><i class="fab fa-linkedin"></i></a>
           </li>
         </ul>
       </div>
@@ -71,7 +71,7 @@
             <a class="nav-link" href="#">Gallery <i class="fas fa-angle-down"></i>
             </a>
             <ul class="list-unstyled sub-dropdown-menu">
-              <li><a href="coming-soon.php">Photos</a></li>
+              <li><a href="photo-list.php">Photos</a></li>
               <li><a href="coming-soon.php">Videos</a></li>
             </ul>
           </li>
@@ -79,7 +79,7 @@
             <a class="nav-link" href="#">Publication <i class="fas fa-angle-down"></i>
             </a>
             <ul class="list-unstyled sub-dropdown-menu">
-              <li><a href="coming-soon.php">Newsletter</a></li>
+              <li><a href="newsletter.php">Newsletter</a></li>
               <li><a href="publication.php">publications</a></li>
               <li><a href="coming-soon.php">reports</a></li>
             </ul>
@@ -88,7 +88,7 @@
             <a class="nav-link" href="#">Project & program <i class="fas fa-angle-down"></i>
             </a>
             <ul class="list-unstyled sub-dropdown-menu">
-              <li><a href="coming-soon.php">Ongoing Projects</a></li>
+              <li><a href="ongoing-project-list.php">Ongoing Projects</a></li>
               <li><a href="coming-soon.php">Past Projects</a></li>
               <li><a href="story-list.php">Stories</a></li>
             </ul>

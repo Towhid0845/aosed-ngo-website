@@ -18,7 +18,7 @@
   position: relative;
   display: flex;
   align-items: center;
-  left: -119px;
+  // left: -119px;
 }
 
 .about_area_heading h2 {
@@ -56,9 +56,12 @@
 
 .about_area_para {
   padding-top: 20px;
+
 }
 .about_area_para h5 {
   line-height: 26px;
+  font-size: 16px;
+    color: $text;
 }
 .about_area_para p {
   font-size: 18px;

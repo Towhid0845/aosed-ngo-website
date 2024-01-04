@@ -2,7 +2,7 @@
 @import "../mixin/font";
 
 .content-page {
-padding-top: 60px;
+padding-top: 50px;
 margin-bottom: 60px;
 
 .content-main {
@@ -39,12 +39,6 @@ margin-bottom: 30px;
     ul,
     ol {
       padding-top: 12px
-    }
-  
- ul>li::marker,
-    ol>li::marker {
-      font-weight: bold;
-      font-size: 24px;
     }
   
     table {
@@ -87,7 +81,7 @@ ul {
 li {
     // list-style: none;
 margin-left: 30px;
-  font-weight: bold;
+  // font-weight: bold;
 
 // &::before {
   // font-family: "Font Awesome 5 Free";
@@ -155,8 +149,8 @@ td {
 
     td {
       img {
-          max-width: 170px;
-          max-height: 80px;
+          // max-width: 170px;
+            height: 60px;
         }
       }
     }

@@ -7,15 +7,14 @@
       <div class="col-xl-3 col-md-6 mb-4 mb-lg-0">
         <div class="widget">
           <img class="mb-4" src="images/logo.webp" alt="logo" width="220">
-          <p class="mb-4">
-            Lorem ipsum dolor sit amet elit. Deserunt, quisquam! Lorem ipsum dolor sit amet consecteturicing elit. Deserunt, quisquam!
-          </p>
-          <div class="nav social">
-            <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-            <a href="https://www.facebook.com/AOSED.BD"><i class="fab fa-facebook-f"></i></a>
-            <a href="https://www.instagram.com/aosed_khulna/"><i class="fab fa-instagram"></i></a>
-            <a href="https://www.linkedin.com/company/aosed/"><i class="fa-brands fa-linkedin"></i></a>
-            <a href="http://www.youtube.com/@aosed"><i class="fab fa-youtube"></i></a>
+          <!-- <p class="mb-4">
+          </p> -->
+          <div class="nav social mt-5">
+            <a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+            <a href="https://www.facebook.com/AOSED.BD" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/aosed_khulna/" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/company/aosed/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="http://www.youtube.com/@aosed" target="_blank"><i class="fab fa-youtube"></i></a>
           </div>
         </div>
       </div>

@@ -32,8 +32,8 @@
       <div class="content-main">
         <div class="row">
           <div class="col-lg-6 offset-lg-3 col-md-12 col-sm-12 col-12">
-            <div class="section_heading">
-              <h2>our</h2>
+            <div class="section_heading mb-0">
+              <h2 class="pt-0">our</h2>
               <h3>partners</h3>
             </div>
           </div>
@@ -42,7 +42,7 @@
           <div class="col-lg-12">
             <div class="content-table table-responsive">
               <table class="table table-bordered">
-                <thead class="text-white ">
+                <!-- <thead class="text-white ">
                   <div class="d-flex justify-content-end">
                     <a href="table-partner.php" class="print-btn">
                       <i class="fa-solid fa-print"></i>
@@ -53,7 +53,7 @@
                     <th class="text-center"><span>Name</span></th>
                     <th class="text-center"><span>website</span></th>
                   </tr>
-                </thead>
+                </thead> -->
                 <tbody>
                   <tr>
                     <td><img src="./images/give2asia.webp" alt="not found"></td>

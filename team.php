@@ -129,7 +129,7 @@
         <div class="col-sm-6 col-lg-4 col-xl-3">
           <div class="team_wrapper">
             <div class="volunteer_img">
-              <img src="./images/Sumon Biswas.jpg" alt="img">
+              <img src="./images/Md Salah Uddin.jpg" alt="img">
               <div class="volunteer_icon">
                 <ul>
                   <li>
@@ -148,9 +148,9 @@
               </div>
             </div>
             <div class="volunteer_text">
-              <h3><a href="#!">Sumon Biswas</a></h3>
-              <p>sumonaosed@yahoo.com</p>
-              <p>Technical Assistant</p>
+              <h3><a href="#!">Md Salah Uddin</a></h3>
+              <p>salahuddin.aosed@gmail.com</p>
+              <p>Monitoring Officer</p>
             </div>
           </div>
         </div>
@@ -185,7 +185,7 @@
         <div class="col-sm-6 col-lg-4 col-xl-3">
           <div class="team_wrapper">
             <div class="volunteer_img">
-              <img src="./images/Md Salah Uddin.jpg" alt="img">
+              <img src="./images/Sumon Biswas.jpg" alt="img">
               <div class="volunteer_icon">
                 <ul>
                   <li>
@@ -204,12 +204,13 @@
               </div>
             </div>
             <div class="volunteer_text">
-              <h3><a href="#!">Md Salah Uddin</a></h3>
-              <p>salahuddin.aosed@gmail.com</p>
-              <p>Monitoring Officer</p>
+              <h3><a href="#!">Sumon Biswas</a></h3>
+              <p>sumonaosed@yahoo.com</p>
+              <p>Technical Assistant</p>
             </div>
           </div>
         </div>
+
         <div class="col-sm-6 col-lg-4 col-xl-3">
           <div class="team_wrapper">
             <div class="volunteer_img">
