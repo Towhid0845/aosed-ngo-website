@@ -23,12 +23,12 @@
               <img src="./images/story1.jpg" alt="project-details-banner" class="img-fluid w-100">
             </div>
             <div class="text">
-              <div class="dates">
+              <!-- <div class="dates">
                 <ul class="list-unstyled">
                   <li>Story</li>
                   <li>31st December, 2023</li>
                 </ul>
-              </div>
+              </div> -->
               <div class="details">
                 <h3>Smart Bangladesh Award 2023 for ICT-based Early Warning Response Mechanism:</h3>
                 <p>AOSED received the prestigious "Smart Bangladesh Award-2023" in recognition of its exceptional role as a leading organization in fostering resilience and expertise among coastal districts through an ICT-based Early Warning Response Mechanism. The award was presented during the Sheikh Russel Day 2023 ceremony held at the Bangabandhu International Conference Center on October 18, 2023.</p>
@@ -39,43 +39,6 @@
                 <p>The climate change-induced impacts, as well as the various natural hazards have exacerbated vulnerabilities to disasters in the coastal districts. By utilizing this system, real-time vessel tracking from central monitoring hubs to the coastal areas and communicating essential weather-related information has led to increased resilience among coastal districts.</p>
                 <p>Moreover, since the project has been successfully implemented, there are plans for its expansion in the future among the coastal districts. Given the notable success of this project, it is seen as an integral part of the 8th Five-Year Plan of the Government of Bangladesh, SDG 1, 2, 13, and Blue Economy.</p>
               </div>
-
-              <!-- <blockquote>
-                <p>Internet of Things Expansion The IoT continues to expand, connecting various devices and enabling
-                  data exchange between them. Smart homes, wearables, and industrial IoT applications are gaining
-                  popularity, leading to increased focus on data security and privacy</p>
-                <strong>– Michal Smart</strong>
-              </blockquote>
-
-              &nbsp;
-              &nbsp;
-              &nbsp;
-              <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et! Lorem ipsum dolor sit amet,
-                  consectetur adipisicing elit. Delectus, et! v</li>
-              </ul>
-              &nbsp;
-              &nbsp;
-              &nbsp;
-              <ol>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et! Lorem ipsum dolor sit amet,
-                  consectetur adipisicing elit. Delectus, et! v</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et!</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, et! Lorem ipsum dolor sit amet,
-                  consectetur adipisicing elit. Delectus, et! v</li>
-              </ol> -->
-
 
             </div>
           </div>
@@ -94,42 +57,29 @@
               </div>
             </div>
             <div class="info-block">
-              <h3 class="project-title">Recent Posts</h3>
+              <h3 class="project-title">Recent Stories</h3>
               <div class="small-project-item">
-                <a href="" class="d-block w-100">
+                <a href="./story1-details.php" class="d-block w-100">
                   <div class="recent-project d-flex">
                     <div class="image">
                       <!-- <img src="https://placehold.co/100x69?font=roboto" alt="n-sm"> -->
-                      <img src="./images/sm6.jpg" alt="n-sm">
+                      <img src="./images/story2.jpg" alt="aosed">
                     </div>
                     <div class="text">
-                      <h5>Yourself Everyone Else Is Already Marketing Taken</h5>
+                      <h5>Climate Education for Secondary School Students in Southwest Bangladesh</h5>
                       <span><i class="far fa-calendar-alt"></i> 15 July, 2023</span>
                     </div>
                   </div>
                 </a>
               </div>
               <div class="small-project-item">
-                <a href="" class="d-block w-100">
+                <a href="./story3-details.php" class="d-block w-100">
                   <div class="recent-project d-flex">
                     <div class="image">
-                      <img src="https://placehold.co/112x70?font=roboto" alt="n-sm">
+                      <img src="./images/story3.jpg" alt="aosed">
                     </div>
                     <div class="text">
-                      <h5>Yourself Everyone Else Is Already Marketing Taken</h5>
-                      <span><i class="far fa-calendar-alt"></i> 15 July, 2023</span>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div class="small-project-item">
-                <a href="" class="d-block w-100">
-                  <div class="recent-project d-flex">
-                    <div class="image">
-                      <img src="https://placehold.co/112x70?font=roboto" alt="n-sm">
-                    </div>
-                    <div class="text">
-                      <h5>Yourself Everyone Else Is Already Marketing Taken</h5>
+                      <h5>Climate resilient initiative for Seagoing Traditional Fisher community</h5>
                       <span><i class="far fa-calendar-alt"></i> 15 July, 2023</span>
                     </div>
                   </div>

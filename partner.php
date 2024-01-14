@@ -30,14 +30,14 @@
   <section class="content-page">
     <div class="container">
       <div class="content-main">
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-lg-6 offset-lg-3 col-md-12 col-sm-12 col-12">
             <div class="section_heading mb-0">
               <h2 class="pt-0">our</h2>
               <h3>partners</h3>
             </div>
           </div>
-        </div>
+        </div> -->
         <div class="row">
           <div class="col-lg-12">
             <div class="content-table table-responsive">

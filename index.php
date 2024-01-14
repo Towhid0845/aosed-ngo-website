@@ -186,7 +186,7 @@
           <div class="row">
             <div class="col-lg-6 offset-lg-3 col-md-12 col-sm-12 col-12">
               <div class="section_heading">
-                <h2>events</h2>
+                <h2>Events</h2>
                 <!-- <h2>Visit our events for contribution</h2> -->
               </div>
             </div>
@@ -203,14 +203,14 @@
                   </div> -->
                   <div class="event_heading_area">
                     <div class="event_heading">
-                      <h3><a href="./images/Revised Final Draft Report of COP28.pdf">AOSED in COP28</a></h3>
+                      <h3><a class="line_limit_2" href="./images/Revised Final Draft Report of COP28.pdf">AOSED in COP28</a></h3>
                     </div>
                     <div class="event_date">
                       <img src="./images/shape1.png" alt="icon">
                       <h6>20 <span>Dec</span></h6>
                     </div>
                   </div>
-                  <div class="event_para line_limit_4">
+                  <div class="event_para line_limit_5">
                     <p>As we continue to grapple with the escalating challenges posed by climate change, international
                       forums such as the Conference of the Parties (COP) play an indispensable role in shaping the global
                       response. The 28th session of the COP held in the vibrant city of Dubai, UAE, marked another
@@ -546,7 +546,7 @@
                 </div>
                 <div class="blog_card_text">
                   <div class="blog_card_tags">
-                    <a href="news.html">#story</a>
+                    <!-- <a href="news.html">#story</a> -->
                   </div>
                   <div class="blog_card_heading">
                     <h3><a href="story1-details.php" class="line_limit_2">Climate Education for Secondary School Students in Southwest Bangladesh</a></h3>
@@ -589,7 +589,7 @@
                 </div>
                 <div class="blog_card_text">
                   <div class="blog_card_tags">
-                    <a href="news.html">#story</a>
+                    <!-- <a href="news.html">#story</a> -->
                   </div>
                   <div class="blog_card_heading">
                     <h3><a href="story2-details.php" class="line_limit_2">Smart Bangladesh Award 2023 for ICT-based Early Warning Response Mechanism</a></h3>
@@ -607,7 +607,7 @@
                 </div>
                 <div class="blog_card_text">
                   <div class="blog_card_tags">
-                    <a href="news.html">#Water</a>
+                    <!-- <a href="news.html">#Water</a> -->
                   </div>
                   <div class="blog_card_heading">
                     <h3><a href="story3-details.php" class="line_limit_2">Climate resilient initiative for Seagoing Traditional Fisher community</a></h3>
@@ -633,6 +633,14 @@
       <section id="partner">
         <h2 class="d-none">Heading</h2>
         <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12 col-12">
+              <div class="section_heading">
+                <h2>Partners</h2>
+                <!-- <h3>There is a story of hard work, perseverance, and sacrifice behind every story</h3> -->
+              </div>
+            </div>
+          </div>
           <div class="row">
             <div class="col-lg-12">
               <div class="owl-carousel owl-theme">
@@ -717,19 +725,6 @@
 
   <!-- script part start -->
   <?php include("./component/script.php"); ?>
-  <!-- <script>
-    Swal.fire({
-      title: "",
-      text: "",
-      imageUrl: "http://aosed.org/images/new_year.png",
-      imageWidth: 400,
-      imageHeight: 200,
-      imageAlt: "Custom image",
-      confirmButtonText: 'Close'
-    });
-  </script> -->
-  <!-- script part end -->
-
 
 </body>
 

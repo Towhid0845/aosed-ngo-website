@@ -31,10 +31,7 @@ margin-bottom: 30px;
       margin-bottom: 30px;
       color: $black;
     }
-  
-// h5 {
-//   text-decoration: underline;
-// }
+
   
     ul,
     ol {
@@ -79,20 +76,7 @@ text-align: justify;
 
 ul {
 li {
-    // list-style: none;
 margin-left: 30px;
-  // font-weight: bold;
-
-// &::before {
-  // font-family: "Font Awesome 5 Free";
-  //   content: "\f058";
-  // color: $theme;
-  //   display: inline-block;
-  //   padding-right: 15px;
-  //   vertical-align: middle;
-  //   font-weight: 900;
-  //   font-size: 20px;
-  // }
 }
 }
 
@@ -102,7 +86,6 @@ ol {
   }
 }
 table {
-// margin-left: 30px;
 
 thead {
     background-color: $black;
@@ -121,7 +104,6 @@ td {
 }
 
 .content-table {
-  // margin-left: 30px;
 
   table thead tr {
     th span {
@@ -149,7 +131,6 @@ td {
 
     td {
       img {
-          // max-width: 170px;
             height: 60px;
         }
       }

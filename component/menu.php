@@ -11,7 +11,7 @@
         </ul>
       </div> -->
       <div class="col-lg-6 col-8">
-        <p class="tag">
+        <p class="slogan">
           Special consultative status with UN ECOSOC
         </p>
       </div>

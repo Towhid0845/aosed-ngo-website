@@ -1,5 +1,6 @@
 @import "./variable/variable";
 @import "./mixin/font";
+
 @media (min-width:1800px) {
 
 .container,
@@ -75,9 +76,6 @@
   padding: 30px 0 40px;
 }
 
-.event_para {
-  padding-right: 0px;
-}
 #events,
 #counter,
 #news {
@@ -110,6 +108,17 @@ nav .container .search {
 
 nav .container .navbar-nav li a {
   font-size: 16px;
+}
+.est {
+  padding-top: 0;
+}
+
+.event_bottom_content p {
+  line-height: 18px;
+}
+
+.small_content_padding {
+  height: 238px;
 }
 
 .event_big_img {
@@ -208,8 +217,16 @@ nav .container .navbar-nav li a {
 }
 
 
-.event_para {
-  padding-right: 0;
+.est {
+  padding-top: 0;
+}
+
+.event_bottom_content p {
+  line-height: 18px;
+}
+
+.small_content_padding {
+  height: 238px;
 }
 
 // #banner .right {
@@ -249,6 +266,17 @@ nav .container .navbar-nav li a {
 }
 
 @media (min-width:768px) and (max-width:991.98px) {
+  .story-list .story-item .image {
+      height: 275px;
+    }
+  
+    .story-list .story-item .text {
+      height: 275px;
+    }
+  
+    .story-list .story-item .text .berif h5 {
+      margin-bottom: 10px;
+    }
   .story-list .story-item .image .overlay .title h5 {
       font-size: 20px;
     }
@@ -256,7 +284,7 @@ nav .container .navbar-nav li a {
     .story-list .story-item .text p {
       overflow: hidden;
       display: -webkit-box;
-      -webkit-line-clamp: 6;
+      -webkit-line-clamp: 5;
       -webkit-box-orient: vertical;
     }
   .team-page .team_wrapper .volunteer_img {

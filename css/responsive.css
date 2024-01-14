@@ -56,9 +56,6 @@
   #about {
     padding: 30px 0 40px;
   }
-  .event_para {
-    padding-right: 0px;
-  }
   #events,
   #counter,
   #news {
@@ -84,6 +81,15 @@
   }
   nav .container .navbar-nav li a {
     font-size: 16px;
+  }
+  .est {
+    padding-top: 0;
+  }
+  .event_bottom_content p {
+    line-height: 18px;
+  }
+  .small_content_padding {
+    height: 238px;
   }
   .event_big_img {
     height: 395px;
@@ -160,8 +166,14 @@
   #footer {
     padding: 40px 0 30px 0;
   }
-  .event_para {
-    padding-right: 0;
+  .est {
+    padding-top: 0;
+  }
+  .event_bottom_content p {
+    line-height: 18px;
+  }
+  .small_content_padding {
+    height: 238px;
   }
   .about_top_boxed_icon img {
     width: 100px;
@@ -190,13 +202,22 @@
   }
 }
 @media (min-width: 768px) and (max-width: 991.98px) {
+  .story-list .story-item .image {
+    height: 275px;
+  }
+  .story-list .story-item .text {
+    height: 275px;
+  }
+  .story-list .story-item .text .berif h5 {
+    margin-bottom: 10px;
+  }
   .story-list .story-item .image .overlay .title h5 {
     font-size: 20px;
   }
   .story-list .story-item .text p {
     overflow: hidden;
     display: -webkit-box;
-    -webkit-line-clamp: 6;
+    -webkit-line-clamp: 5;
     -webkit-box-orient: vertical;
   }
   .team-page .team_wrapper .volunteer_img {

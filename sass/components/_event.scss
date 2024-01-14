@@ -7,6 +7,7 @@
 }
 .est {
   font-size: 20px;
+  padding-top: 10px;
 }
 .event_left_side_wrapper {
   background: #ffffff;
@@ -44,19 +45,23 @@
 
 .big_content_padding {
   padding: 28px 18px;
+  height: 360px;
 }
 
 .small_content_padding {
   padding: 15px 18px;
   margin-bottom: 20px;
+  height: 250px;
 }
 
-.small_content_padding .event_heading_area {
-  padding-top: 7px;
-}
+// .small_content_padding .event_heading_area {
+//   padding-top: 7px;
+// }
 
-.small_content_padding .event_para {
+.event_para p {
   padding-top: 8px;
+}
+.small_content_padding .event_para {
   padding-right: 90px;
 }
 
@@ -69,14 +74,17 @@
 
 .event_heading {
   padding-right: 90px;
+  // padding-bottom: 10px;
 }
 
 .event_heading h3 {
   line-height: 34px;
+  
 }
 
 .event_heading h3 a {
   color: $black;
+
 }
 
 .event_heading h3 a:hover {

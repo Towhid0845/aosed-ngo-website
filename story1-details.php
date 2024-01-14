@@ -23,12 +23,12 @@
               <img src="./images/story2.jpg" alt="project-details-banner" class="img-fluid w-100">
             </div>
             <div class="text">
-              <div class="dates">
+              <!-- <div class="dates">
                 <ul class="list-unstyled">
                   <li>Story</li>
                   <li>31st December, 2023</li>
                 </ul>
-              </div>
+              </div> -->
               <div class="details">
                 <h3>Climate Education for Secondary School Students in Southwest Bangladesh:</h3>
                 <p>In an unprecedented move, AOSED has pioneered a global first: a comprehensive educational initiative targeting the nuanced challenges of climate change in the heart of southwest Bangladesh. From 2003 to 2005, AOSED strategically engaged 65 educational institutions across pivotal regions like Khulna and Jessore, meticulously crafting a curriculum that transcended traditional boundaries under Reducing Vulnerability to Climate Change (RVCC) project with collaboration of CARE Bangladesh.</p>
@@ -93,22 +93,35 @@
               </div>
             </div>
             <div class="info-block">
-              <h3 class="project-title">Recent Posts</h3>
+              <h3 class="project-title">Recent Stories</h3>
               <div class="small-project-item">
-                <a href="" class="d-block w-100">
+                <a href="./story2-details.php" class="d-block w-100">
                   <div class="recent-project d-flex">
                     <div class="image">
                       <!-- <img src="https://placehold.co/100x69?font=roboto" alt="n-sm"> -->
-                      <img src="./images/sm6.jpg" alt="n-sm">
+                      <img src="./images/story1.jpg" alt="n-sm">
                     </div>
                     <div class="text">
-                      <h5>Yourself Everyone Else Is Already Marketing Taken</h5>
+                      <h5>Smart Bangladesh Award 2023 for ICT-based Early Warning Response Mechanism</h5>
                       <span><i class="far fa-calendar-alt"></i> 15 July, 2023</span>
                     </div>
                   </div>
                 </a>
               </div>
               <div class="small-project-item">
+                <a href="./story2-details.php" class="d-block w-100">
+                  <div class="recent-project d-flex">
+                    <div class="image">
+                      <img src="./images/story3.jpg" alt="n-sm">
+                    </div>
+                    <div class="text">
+                      <h5>Climate resilient initiative for Seagoing Traditional Fisher community</h5>
+                      <span><i class="far fa-calendar-alt"></i> 15 July, 2023</span>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <!-- <div class="small-project-item">
                 <a href="" class="d-block w-100">
                   <div class="recent-project d-flex">
                     <div class="image">
@@ -120,20 +133,7 @@
                     </div>
                   </div>
                 </a>
-              </div>
-              <div class="small-project-item">
-                <a href="" class="d-block w-100">
-                  <div class="recent-project d-flex">
-                    <div class="image">
-                      <img src="https://placehold.co/112x70?font=roboto" alt="n-sm">
-                    </div>
-                    <div class="text">
-                      <h5>Yourself Everyone Else Is Already Marketing Taken</h5>
-                      <span><i class="far fa-calendar-alt"></i> 15 July, 2023</span>
-                    </div>
-                  </div>
-                </a>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
