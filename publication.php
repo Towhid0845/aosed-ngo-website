@@ -59,7 +59,7 @@
                         <img src="./images/pub1.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Easy Reading Booklet 1st Part_(Bangla).pdf">
+                        <a href="./images/Easy Reading Booklet 1st Part_(Bangla).pdf" target="_blank">
                           <h4>জলবায়ু পরিবর্তন-১</h4>
                         </a>
                       </div>
@@ -71,7 +71,7 @@
                         <img src="./images/pub2.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Easy Reading Booklet 2nd Part_(Bangla).pdf">
+                        <a href="./images/Easy Reading Booklet 2nd Part_(Bangla).pdf" target="_blank">
                           <h4>জলবায়ু পরিবর্তন-২</h4>
                         </a>
                       </div>
@@ -83,7 +83,7 @@
                         <img src="./images/pub3.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Easy reading booklet on WASH (Bangla) .pdf">
+                        <a href="./images/Easy reading booklet on WASH (Bangla) .pdf" target="_blank">
                           <h4>স্বাস্থ্য ও সানিটেশন বিষয়ক</h4>
                         </a>
                       </div>
@@ -101,7 +101,7 @@
                         <img src="./images/pub4.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Guideline on menstrual hygiene (Bangla) .pdf">
+                        <a href="./images/Guideline on menstrual hygiene (Bangla) .pdf" target="_blank">
                           <h4>কিশোরী ও নারী বিষয়ক</h4>
                         </a>
                       </div>
@@ -113,7 +113,7 @@
                         <img src="./images/pub5.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Hand book on Environmental Auditing.pdf">
+                        <a href="./images/Hand book on Environmental Auditing.pdf" target="_blank">
                           <h4>Handbook on Environmental Auditing</h4>
                         </a>
                       </div>
@@ -125,7 +125,7 @@
                         <img src="./images/pub6.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Philip Chart on Climate Change Awareness Part-1.pdf">
+                        <a href="./images/Philip Chart on Climate Change Awareness Part-1.pdf" target="_blank">
                           <h4>ফ্লিপ চার্ট</h4>
                         </a>
                       </div>
@@ -137,7 +137,7 @@
                         <img src="./images/pub7.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Philip Chart on Climate Change Awareness Part-2.pdf">
+                        <a href="./images/Philip Chart on Climate Change Awareness Part-2.pdf" target="_blank">
                           <h4>লিপ চার্ট</h4>
                         </a>
                       </div>
@@ -155,7 +155,7 @@
                         <img src="./images/pub8.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Teachers Guideline on Climate Change School Program (Bangla).pdf">
+                        <a href="./images/Teachers Guideline on Climate Change School Program (Bangla).pdf" target="_blank">
                           <h4>শিক্ষক সহায়িকা</h4>
                         </a>
                       </div>
@@ -167,7 +167,7 @@
                         <img src="./images/pub9.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Water scenario of Dacope.pdf">
+                        <a href="./images/Water scenario of Dacope.pdf" target="_blank">
                           <h4>উপকূলে নিরাপদ পানির আকাল</h4>
                         </a>
                       </div>
@@ -185,7 +185,7 @@
                         <img src="./images/pub8.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Teachers Guideline on Climate Change School Program (Bangla).pdf">
+                        <a href="./images/Teachers Guideline on Climate Change School Program (Bangla).pdf" target="_blank">
                           <h4>শিক্ষক সহায়িকা</h4>
                         </a>
                       </div>
@@ -197,7 +197,7 @@
                         <img src="./images/pub9.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Water scenario of Dacope.pdf">
+                        <a href="./images/Water scenario of Dacope.pdf" target="_blank">
                           <h4>উপকূলে নিরাপদ পানির আকাল</h4>
                         </a>
                       </div>
@@ -215,7 +215,7 @@
                         <img src="./images/pub8.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Teachers Guideline on Climate Change School Program (Bangla).pdf">
+                        <a href="./images/Teachers Guideline on Climate Change School Program (Bangla).pdf" target="_blank">
                           <h4>শিক্ষক সহায়িকা</h4>
                         </a>
                       </div>
@@ -227,7 +227,7 @@
                         <img src="./images/pub9.png" alt="aosed">
                       </div>
                       <div class="text">
-                        <a href="./images/Water scenario of Dacope.pdf">
+                        <a href="./images/Water scenario of Dacope.pdf" target="_blank">
                           <h4>উপকূলে নিরাপদ পানির আকাল</h4>
                         </a>
                       </div>

@@ -30,7 +30,7 @@ $(function () {
     autoplaySpeed: 5000,
     slidesToShow: 1,
     fade: false,
-    autoplay: false,
+    autoplay: true,
     slidesToScroll: 1,
     arrows: false,
     // prevArrow: '<i class="fas left icon fa-chevron-left"></i>',

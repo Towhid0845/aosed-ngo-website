@@ -220,12 +220,12 @@ button {
     border: 0;
     width: 12px;
     height: 12px;
-    background-color: #BABABB;
+    background-color: $theme;
   }
 
 &.slick-active {
   button {
-    background-color: $theme;
+    background-color: $white;
   }
 }
 }
