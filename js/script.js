@@ -27,7 +27,7 @@ $(function () {
     dots: true,
     infinite: true,
     speed: 800,
-    autoplaySpeed: 5000,
+    autoplaySpeed: 4000,
     slidesToShow: 1,
     fade: false,
     autoplay: true,

@@ -71,15 +71,17 @@
             <a class="nav-link" href="#">Gallery <i class="fas fa-angle-down"></i>
             </a>
             <ul class="list-unstyled sub-dropdown-menu">
-              <li><a href="photo-list.php">Photos</a></li>
-              <li><a href="coming-soon.php">Videos</a></li>
+              <!-- <li><a href="photo-list.php">Photos</a></li> -->
+              <li><a href="coming-soon.php">Photos</a></li>
+              <li><a href="video-list.php">Videos</a></li>
             </ul>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Publication <i class="fas fa-angle-down"></i>
             </a>
             <ul class="list-unstyled sub-dropdown-menu">
-              <li><a href="newsletter.php">Newsletter</a></li>
+              <!-- <li><a href="newsletter.php">Newsletter</a></li> -->
+              <li><a href="coming-soon.php">Newsletter</a></li>
               <li><a href="publication.php">publications</a></li>
               <li><a href="coming-soon.php">reports</a></li>
             </ul>
@@ -88,7 +90,8 @@
             <a class="nav-link" href="#">Project & program <i class="fas fa-angle-down"></i>
             </a>
             <ul class="list-unstyled sub-dropdown-menu">
-              <li><a href="ongoing-project-list.php">Ongoing Projects</a></li>
+              <!-- <li><a href="ongoing-project-list.php">Ongoing Projects</a></li> -->
+              <li><a href="coming-soon.php">Ongoing Projects</a></li>
               <li><a href="coming-soon.php">Past Projects</a></li>
               <li><a href="story-list.php">Stories</a></li>
             </ul>

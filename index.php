@@ -396,8 +396,8 @@
       <!-- event part end -->
 
 
-      <!-- counter part satrt -->
-      <!-- <section id="counter">
+      <!-- Notice part satrt -->
+      <section id="counter">
         <div class="container">
           <div class="section_heading">
             <img src="./images/notice.png" alt="not found">
@@ -477,54 +477,53 @@
                   </li>
                 </ul>
               </div>
-              
+
             </div>
           </div>
-
         </div>
-      </section> -->
+      </section>
       <!-- <div class="col-lg-12">
-              <div class="counter_area_wrapper">
-                <div class="row">
-                  <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                    <div class="counter_item">
-                      <div class="image position-relative">
-                        <img src="./images/campaign.png" alt="icon">
-                        <div class="count">
-                          <p>10</p>
-                        </div>
-                      </div>
-
-                      <h2 class="counter">2348</h2>
-                      <p>Notice</p>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                    <div class="counter_item">
-                      <img src="./images/report.png" alt="icon">
-
-                      <h2 class="counter">1785</h2>
-                      <p>Reports</p>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                    <div class="counter_item">
-                      <img src="./images/publication.png" alt="icon">
-                      <h2 class="counter">4287</h2>
-                      <p>Publications</p>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                    <div class="counter_item">
-                      <img src="./images/article.png" alt="icon">
-                      <h2 class="counter">1294</h2>
-                      <p>Article</p>
-                    </div>
+        <div class="counter_area_wrapper">
+          <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+              <div class="counter_item">
+                <div class="image position-relative">
+                  <img src="./images/campaign.png" alt="icon">
+                  <div class="count">
+                    <p>10</p>
                   </div>
                 </div>
+
+                <h2 class="counter">2348</h2>
+                <p>Notice</p>
               </div>
-            </div> -->
-      <!-- counter part end -->
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+              <div class="counter_item">
+                <img src="./images/report.png" alt="icon">
+
+                <h2 class="counter">1785</h2>
+                <p>Reports</p>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+              <div class="counter_item">
+                <img src="./images/publication.png" alt="icon">
+                <h2 class="counter">4287</h2>
+                <p>Publications</p>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+              <div class="counter_item">
+                <img src="./images/article.png" alt="icon">
+                <h2 class="counter">1294</h2>
+                <p>Article</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> -->
+      <!-- Notice part end -->
 
 
       <!-- news part start -->
