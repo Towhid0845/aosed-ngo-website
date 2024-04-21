@@ -8,6 +8,14 @@
 
 }
 
+.notice_page {
+  box-shadow: none;
+
+  .pagination ul {
+    background-color: $white;
+  }
+}
+
 .notice ul {
   background-color: #f2f2f2;
   margin-bottom: 14px;
@@ -63,6 +71,7 @@
   font-size: 25px;
   color: #ffffff;
 }
+
 #counter {
   z-index: 9;
   // padding-bottom: 100px;
@@ -80,7 +89,8 @@
 .counter_item {
   text-align: center;
   border-right: 1px solid #eeeeee;
-img {
+
+  img {
     height: 64px;
   }
 
@@ -115,4 +125,36 @@ img {
 .counter_item p {
   font-size: 18px;
   padding-top: 10px;
+}
+
+
+.search-block {
+  margin-bottom: 24px;
+  border-radius: 10px;
+  padding: 30px;
+  background-color: #f2f2f2;
+
+  .input-groups {
+    position: relative;
+
+    input {
+      width: 100%;
+      height: 50px;
+      border-radius: 3px;
+      border: 0;
+      background-color: #ffffff;
+      padding: 0 40px 0 20px;
+      border: 1px solid transparent;
+    }
+
+    button {
+      position: absolute;
+      top: 50%;
+      right: 16px;
+      transform: translateY(-50%);
+      font-size: 18px;
+      background-color: transparent;
+      border: 0;
+    }
+  }
 }
